@@ -1,0 +1,36 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here! 
+
+What new skills have I learned? 
+
+First, I learned about three different elements in HTML, Superscript, (<sup>), <hr> elements, and the <strike> element. 
+
+According to W3schools The <sup>, tag defines superscript text. Superscript text appears as half a character above the normal line and is rendered in a smaller font. Superscript text is used for footnotes, like WWW[with a half of a size "1"]. 
+
+In my terms, Superscript <sup>, it is an element that is probably not used very often, but has its moments as was the case in this assignment. I utilized the <sup> element at the very bottom of the page as it required a half sized number "1" higher than the words at the beginning of the last sentence. Another use that comes to mind is when something is to the third power in mathematics the numeral "3" is half the size of the rest of the numbers. In some cases it is either higher or lower than the rest of the text. 
+
+The <hr> element known as the "horizontal rule or element" is now defined as a semantic term. From my understanding is it is utilized during web development to create breaks in the web pages where needed due to a change in a story, or when one wants a break on a topic. 
+
+The last element that I learned about, but first should mention that this is an obsolete and deprecated element. HTML <strike> element was utilized to strike a horizontal line through the text. Presently, the <del> tag, is a semantic element that utilizes this element as a strikethrough for unwanted text.
+
+Besides learning about these three elements I am very estatic to report that I learned how to view what has been coded. That has been a missing link for me for a very long time as when I first learned to code it was in Dreamweaver and we never utilized a code editor. I can say that I am very pleased to finally experience what it is like to work with a code editor and see how it works and comes together as a final display in the browser.
+
+What has been easy?
+
+Upon my familiarity with HTML I found that the placement of the various tags was very simple, and I can say it was nice to see something that I coded come together for the first time.
+
+What has been difficult?
+
+I did not find anything to be too complicated. I thought everything was very straightforward and easy to follow. All I did was research and apply the instructions to make my HTML match every single detail in the PDF sample provided that displayed how our document should appear.
+
+How have I used the problem solving strategies from the first project to overcome challenges so far?
+
+There are a couple of things I have learned, and that is to understand what one is doing and why one is doing it. The other thing that I believe is part of my problem-solving strategies is I try to think about how the computer reads the code and what code will make that desired function to happen. If I do not know what code will make it perform the tasks that I need it to achieve, then I do some research to assist me in figuring things out such as Mozilla and sometimes W3schools.com, a site that has all the resources any developer could need when it comes to code. Also, I utilize my book HTML & CSS by Jon Duckett, which is a great book to have.
+
